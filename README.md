@@ -2,7 +2,9 @@
 This is a fun place to experiment, practice and be creative! 
 
 1. You'll need to download git to your machine.
-2. You'll need to join https://github.com/
+For windows use https://git-scm.com/download/win
+   
+3. You'll need to join https://github.com/
 
 If you use vs-code, add the live server extension & click on the live browser button, that should be to the bottom left of your vscode screen.
 
