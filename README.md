@@ -4,6 +4,7 @@ This is a fun place to experiment, practice and be creative!
 Anna was here!
 
 To start use git desktop.
+Go to site & open with github desktop
 
 
 1. You'll need to download git to your machine.
