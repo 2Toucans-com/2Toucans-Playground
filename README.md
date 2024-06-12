@@ -1,5 +1,5 @@
 # 2Toucans-Playground
-A fun place to experiment, practice and be creative! 
+This is a fun place to experiment, practice and be creative! 
 
 1. You'll need to join https://github.com/
 
