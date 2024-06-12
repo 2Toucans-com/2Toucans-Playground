@@ -3,9 +3,11 @@ html {
 }
 
 body {
-    background: url('https://mcplantsnavan.s3.eu-north-1.amazonaws.com/static/media/hero-image.jpg') no-repeat center center fixed;
+    background: url('https://blog.happybeaks.co.uk/wp-content/uploads/2020/02/GettyImages-1078614762.jpg') no-repeat top center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
     font-family: 'Lato';
+    font-size:30px;
+    text-align: center;
 }
