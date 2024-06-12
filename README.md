@@ -2,6 +2,7 @@
 This is a fun place to experiment, practice and be creative!
 
 Anna was here!
+Kat was here!
 
 To start use git desktop.
 Go to site & open with github desktop
