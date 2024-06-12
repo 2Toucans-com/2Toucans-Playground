@@ -1,6 +1,9 @@
 # 2Toucans-Playground
 This is a fun place to experiment, practice and be creative! 
 
+To start use git desktop.
+
+
 1. You'll need to download git to your machine.
 * For windows use https://git-scm.com/download/win
 * For mac https://www.git-scm.com/download/mac
