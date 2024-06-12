@@ -9,11 +9,11 @@ If you use bash, run `xdg-open index.html` in your terminal to open the site in 
 mignt need to install xdg-open first with `sudo apt install -y xdg-utils`
 
 
-# Rules
+## Rules
 
 1. Don't merge your own branch.
 2. Don't push from your local main branch directly into the remote remain branch
 
-# Plane Site Management
+## Plane Site Management
 
 https://app.plane.so/2toucans/projects/11f3eac5-ea96-4344-ac60-c97181f31eef/issues
