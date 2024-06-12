@@ -6,8 +6,10 @@ This is a fun place to experiment, practice and be creative!
 If you use vs-code, add the live server extension & click on the live browser button, that should be to the bottom left of your vscode screen.
 
 If you use bash, run `xdg-open index.html` in your terminal to open the site in your browser. You
-mignt need to install xdg-open first with `sudo apt install -y xdg-utils`
+might need to install xdg-open first with `sudo apt install -y xdg-utils`
 
+## Clone repository
+Use ULI to clone repo
 
 ## Rules
 
