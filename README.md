@@ -1,6 +1,8 @@
 # 2Toucans-Playground
 This is a fun place to experiment, practice and be creative!
 
+## Who's been here??
+John was here!
 Anna was here!
 Kat was here!
 
