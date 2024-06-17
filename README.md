@@ -21,6 +21,8 @@ If you use vs-code, add the live server extension & click on the live browser bu
 If you use bash, run `xdg-open index.html` in your terminal to open the site in your browser. You
 might need to install xdg-open first with `sudo apt install -y xdg-utils`
 
+* If you want to see the site run on a server (nginx) using docker, simply run `docker-compose up -d` and type `http://localhost/` into your browser
+
 ## Clone repository
 Use ULI to clone repo
 
