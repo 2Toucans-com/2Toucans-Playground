@@ -6,6 +6,8 @@ John was here!
 Anna was here!
 Kat was here!
 
+## Running the site options
+
 To start use git desktop.
 Go to site & open with github desktop
 
