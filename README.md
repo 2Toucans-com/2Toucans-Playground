@@ -36,3 +36,7 @@ Use ULI to clone repo
 ## Plane Site Management
 
 https://app.plane.so/2toucans/projects/11f3eac5-ea96-4344-ac60-c97181f31eef/issues
+
+### Git commit emoji's
+
+https://gitmoji.dev/
