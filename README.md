@@ -16,17 +16,17 @@ Kat was here!
 ## Running this Project Locally
 
 ### Firstly, Make sure you have the necessary software
-To start use git desktop.
-1. Go to site & open with github desktop
 
-2. Download Git to your machine
-* For windows/Linux: https://git-scm.com/download/win
-* For Mac: https://www.git-scm.com/download/mac
+1. Download Git to your machine
+* **For Windows/Linux:** https://git-scm.com/download/win
+* **For Mac:** https://www.git-scm.com/download/mac
    
-3. Create a GitHub account if you do not already have one by clicking [here](https://github.com/).
+2. Create a GitHub account if you do not already have one by clicking [here](https://github.com/).
+
+3. Download GitHub Desktop (if you are **not** using Command Line input i.e. terminal commands). You can download this [here](https://desktop.github.com/download/).
 
 ### Next, Clone the Repo
-To run this project on your machine, follow the steps below:
+To run this project on your machine **using Command Line input**, follow the steps below:
 
 1. in your terminal, run `mkdir practice-playground && cd "$_"`
 2. run `code .`
