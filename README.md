@@ -8,8 +8,10 @@ Kat was here!
 
 ## Rules
 
-1. Don't merge your own branch.
+1. Don't merge your branch to this repository's main branch
 2. Don't push from your local main branch directly into the remote remain branch
+
+**Instead:** please clone or fork this repo. Instructions on how to do this can be found below
 
 ## Running this Project Locally
 
@@ -23,7 +25,7 @@ To start use git desktop.
    
 3. Create a GitHub account if you do not already have one by clicking [here](https://github.com/).
 
-### Clone the Repo
+### Next, Clone the Repo
 To run this project on your machine, follow the steps below:
 
 1. in your terminal, run `mkdir practice-playground && cd "$_"`
@@ -44,7 +46,7 @@ To run this project on your machine, follow the steps below:
 5. [Create a new repository](https://github.com/new) on GitHub to push this project to. Then click on the Create repository button.
 6. Scroll down to _“…or push an existing repository from the command line”_ and run the commands provided to push your local changes up to your GitHub remote repository
 
-## Seeing Your Website
+## Finally, See Your New Website
 
 ### Live Server Extension
 If you are using VS Code, you can install Live Server to run your website:
