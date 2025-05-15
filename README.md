@@ -66,10 +66,6 @@ If you use bash (Linux/WSL2), run `xdg-open index.html` in your terminal to open
 
 If you want to see the site run on a server (nginx) using PHP and Docker, simply run `docker-compose up -d` and type `http://localhost:80` into your browser
 
-## Plane Site Management
-
-https://app.plane.so/2toucans/projects/11f3eac5-ea96-4344-ac60-c97181f31eef/issues
-
 ### Git commit emoji's
 
 https://gitmoji.dev/
